@@ -1,0 +1,11 @@
+diff a/package.json b/package.json	(rejected hunks)
+@@ -6,8 +6,7 @@
+     "build": "hexo generate",
+     "clean": "hexo clean",
+     "deploy": "hexo deploy",
+-    "server": "hexo server",
+-    "netlify": "npm run clean && npm run build"
++    "server": "hexo server"
+   },
+   "hexo": {
+     "version": "6.3.0"
