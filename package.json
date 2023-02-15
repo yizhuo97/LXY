@@ -8,6 +8,7 @@
     "deploy": "hexo deploy",
     "server": "hexo server",
     "netlify": "npm run clean && npm run build"
+    "netlify": "npm run clean && npm run build"
   },
   "hexo": {
     "version": "6.3.0"
